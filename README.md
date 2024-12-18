@@ -1,3 +1,4 @@
+![1000021022](https://github.com/user-attachments/assets/d4d039d5-165b-4e3c-9f8a-0c05e33fa795)
 # Anoma
 
 This is an implementation of the Anoma protocol, whose specs can be
